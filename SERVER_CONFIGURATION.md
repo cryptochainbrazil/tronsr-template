@@ -18,3 +18,8 @@
   - RAM: 320GB
   - SSD: 2T GlusterFS
   - Network: 1Gbps
+
+### Hardware capacity upgrade plan 
+We plan to monitor the main server load, as well the testnet and backup servers, upgrading processor and memory as required by the network, ensuring that the server does not exceed 70% of the hardware capacity.
+
+In the first two years, we plan to add several redundancy nodes across Brazil.
