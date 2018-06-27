@@ -24,7 +24,7 @@ Our nodes are placed in different continents, we are using cloud service and als
 
 ### Testable nodes for community members
      
-     We have been running a public test node since the beginning of April. Doing our best to make the test net practicable for the community. The testnet node will be maintained and updated constantly. We will also keep the testnet machines updated after the mainnet release.
+ We have been running a public test node since the beginning of April. Doing our best to make the test net practicable for the community. The testnet node will be maintained and updated constantly. We will also keep the testnet machines updated after the mainnet release.
      
-     We have started in advance a formation of our own public test network, which we have been exhaustive conducting tests, in order to obtain the best configuration of server and network topology. This structure will continue after Mainnet launch to ensure the reliability. Our group is constantly reviewing the protocol and code to keep updated to the changes and provide suggestions that could improve its performance. If you want to join our test network, please follow the instructions on https://github.com/fbsobreira/tron-testnet-config.
+ We have started in advance a formation of our own public test network, which we have been exhaustive conducting tests, in order to obtain the best configuration of server and network topology. This structure will continue after Mainnet launch to ensure the reliability. Our group is constantly reviewing the protocol and code to keep updated to the changes and provide suggestions that could improve its performance. If you want to join our test network, please follow the instructions on https://github.com/fbsobreira/tron-testnet-config.
 
