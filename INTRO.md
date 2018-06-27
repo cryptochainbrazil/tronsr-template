@@ -8,4 +8,14 @@ If you are interested in knowing more about us, please contact us at twiter http
 
 Soon we will be making our channel available on Discord and distributing our Tron Network Wallet APP for android
 
+### Intro video: 
+
+https://www.youtube.com/watch?v=fTMBAp21Di0
+
+#### Social Media
 We can be found at: http://cryptochain.network
+
+Twitter: https://twitter.com/_CryptoChain_
+YouTube: https://www.youtube.com/channel/UCkrnuhSTY_fTX2xW2SzI1Kg
+
+
