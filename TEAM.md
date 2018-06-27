@@ -1,7 +1,10 @@
+We have two main characters leading the CryptoChain movement. Both are professors at the same university in Brazil, and care with us the spirit of spreading the knowledge so that we can all grow together. In addition to the university career, we also started early with entrepreneurship, in the telecommunications and automation process field.
+
+
 ### [fbsobreira]
 Role: Founder, Developer and Executive officer
 
-* 10+ years experience in software and 	firmware development. He has worked as 	developer, project manager, and 	researcher for several renowned companies. He is currently a professor at the University of Fortaleza and Owner/CEO at NexTech Engenharia. Has a bachelor's degree in Automation and Control systems, master's in Power Electronics, current pursuing PhD at ODU university. 
+* 10+ years experience in software and 	firmware development. He has worked as 	developer, project manager, and 	researcher for several renowned companies. He is currently a professor at the university in Brazil and Owner/CEO at a company in the automation and control engineering field. Has a bachelor's degree in Automation and Control systems, master's in Power Electronics, current pursuing PhD at ODU university. 
 
 ## [Geneflides Laureno]
 Role: Technology and Security officer
