@@ -1,21 +1,20 @@
-### Rewards 90%+1
+# Budget & Expenses
 
-The majority of ours Super Representative rewards (votes and block production) are distributed back among our voters.
+## Rewards — 95% + 1%
 
-- Currently we share 90% of all rewards among voters proportionally to their participation in pool.
-- +1% of all rewards are shared among loyalty voters
-- Voters can follow all rewards history at out manager tool [CryptoChain Rewards Tracker](https://rewards.cryptochain.network/)
+The majority of our Super Representative rewards (votes and block production) are distributed back to voters.
 
+- **95%** of all rewards, distributed proportionally to voter participation
+- **+1%** shared among loyal voters
 
-### Annual budget
-       
-- USD: 50,000 technical/maintenance 
-  - Maintain server up and running for the community.
-  - Improve network security.
-  - Active development on Tron`s git-hub (java-tron, wallet-cli, walet-web, protocol, documentation)
+---
 
+## Annual Budget — $100,000 USD
 
-### Hardware capacity upgrade plan 
+Covers bare metal infrastructure across 3 locations, active development and maintenance of open source tools (Ledger App, GoTron, wallets), TRON core contributions, community education, meetups, and operational security.
 
-We do monitor our main services load, as well the backup nodes, upgrading processor and memory as required by the network, ensuring that the server does not exceed 70% of the hardware capacity.
+---
 
+## Hardware Upgrade Policy
+
+We continuously monitor our primary and backup node load, upgrading processor and memory as required by network growth. Our target is to ensure servers **never exceed 70% capacity**, maintaining headroom for traffic spikes and network demands.
